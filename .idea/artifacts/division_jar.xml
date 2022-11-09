@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="division:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/division_jar</output-path>
+    <root id="archive" name="division.jar">
+      <element id="module-output" name="division" />
+    </root>
+  </artifact>
+</component>
